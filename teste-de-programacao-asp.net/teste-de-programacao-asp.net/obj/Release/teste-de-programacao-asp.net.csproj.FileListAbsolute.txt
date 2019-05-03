@@ -1,0 +1,10 @@
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\bin\Release\teste-de-programacao-asp.net.exe.config
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\bin\Release\teste-de-programacao-asp.net.exe
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\bin\Release\teste-de-programacao-asp.net.pdb
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste-de-programacao-asp.net.csprojAssemblyReference.cache
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste_de_programacao_asp.net.ciatécnica.resources
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste_de_programacao_asp.net.Properties.Resources.resources
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste-de-programacao-asp.net.csproj.GenerateResource.cache
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste-de-programacao-asp.net.csproj.CoreCompileInputs.cache
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste-de-programacao-asp.net.exe
+C:\Users\ppaul\source\repos\teste-de-programacao-asp.net\teste-de-programacao-asp.net\obj\Release\teste-de-programacao-asp.net.pdb
